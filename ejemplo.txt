@@ -1,0 +1,6 @@
+nombre;apellido;dni;edad
+Miquel;Medina;77793877b;37
+Daniel;Becerra;44356728q;16
+Marc;Fernandez;52437483p;32
+Xavi;Garcia;98765432t;30
+Jose Carlos;Martínez;12345678Q;90
